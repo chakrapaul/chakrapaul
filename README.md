@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Chakra 👋</h1>
 
 <p align="center">
-  Self-taught Full Stack Developer &nbsp;|&nbsp; Java · Spring Boot · React · MySQL
+   Full Stack Developer &nbsp;|&nbsp; Java · Spring Boot · React · MySQL
 </p>
 
 <p align="center">
